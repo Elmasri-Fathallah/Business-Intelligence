@@ -6,8 +6,8 @@
 In this project, I am exploring an interactive data dashboard to uncover insights. I am writing a short report explaining each insight, and how I found the information to reach conclusion from the dashboard.
 
 Link to report
-
-[Data used] (https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
+[I'm an inline-style link](https://www.google.com)
+[Data used]:(https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
 
 ## Introducton to Data - Project 2: Analyze NYSE Data
 In this project, you'll use statistics and spreadsheet programs like Excel to analyze data from over 500 companies on the New York Stock Exchange. You'll also forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
