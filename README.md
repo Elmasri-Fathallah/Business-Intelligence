@@ -7,6 +7,7 @@ In this project, I am exploring an interactive data dashboard to uncover insight
 
 Link to report
 [I'm an inline-style link](https://www.google.com)
+[Data Source](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
 [Data used]:(https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
 
 ## Introducton to Data - Project 2: Analyze NYSE Data
