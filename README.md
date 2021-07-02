@@ -6,6 +6,7 @@
 In this project, I am exploring an interactive data dashboard to uncover insights. I am writing a short report explaining each insight, and how I found the information to reach conclusion from the dashboard.
 
 [Link to report](https://github.com/Elmasri-Fathallah/Business-Intelligence/blob/main/Interpret-Data-Visualization/Interpret%20Data%20Visualization.pdf)
+
 [Data Source](https://public.tableau.com/views/MakeoverMonday34Malaria_0/MalariainAfrica?:embed=y&:showVizHome=no&:display_count=y&:display_static_image=y&:bootstrapWhenNotified=true)
 
 ## Introducton to Data - Project 2: Analyze NYSE Data
