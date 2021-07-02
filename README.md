@@ -13,9 +13,9 @@ In this project, I am exploring an interactive data dashboard to uncover insight
 ## Introducton to Data - Project 2: Analyze NYSE Data
 In this project, I am using statistics and spreadsheet programs such as Excel to analyze data from over 500 companies on the New York Stock Exchange. I am also creating financial models to forecast financial metrics based on three possible scenarios for a company of your choice from the NYSE dataset.
 
-[Link to report] (https://github.com/Elmasri-Fathallah/Business-Intelligence/blob/main/Analyze%20NYSE%20Data/NYSE%20Data%20Project%20Presentation.pdf)
+[Link to report](https://github.com/Elmasri-Fathallah/Business-Intelligence/blob/main/Analyze%20NYSE%20Data/NYSE%20Data%20Project%20Presentation.pdf)
 
-[Data used] (https://github.com/Elmasri-Fathallah/Business-Intelligence/blob/main/Analyze%20NYSE%20Data/projectdata-nyse.csv)
+[Data used](https://github.com/Elmasri-Fathallah/Business-Intelligence/blob/main/Analyze%20NYSE%20Data/projectdata-nyse.csv)
 
 ## SQL for Data Analysis - Project 3: Query Digital Music Store Database
 In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
