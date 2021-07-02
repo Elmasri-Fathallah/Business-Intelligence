@@ -17,7 +17,7 @@ In this project, I am using statistics and spreadsheet programs such as Excel to
 
 [Data used](https://github.com/Elmasri-Fathallah/Business-Intelligence/blob/main/Analyze%20NYSE%20Data/projectdata-nyse.csv)
 
-## SQL for Data Analysis - Project 3: Query Digital Music Store Database
+## SQL for Data Analysis - Project 3: Query a Digital Music Store Database
 In this project, you will query a digital music store database which holds information regarding the store’s media, employees, and customers. You will use the database to help the store gain an understanding of the types of music that are purchased, where customers live, and how the company might optimize their business practices.
 
 Link to report
