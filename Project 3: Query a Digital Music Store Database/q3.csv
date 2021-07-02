@@ -1,0 +1,4 @@
+EmployeeId,Last Name,SUM(i.total)
+3,Peacock,833.04
+4,Park,775.4
+5,Johnson,720.16
